@@ -8,3 +8,8 @@
   padding-left: 30px;
   margin-bottom: 1em;
 }
+
+h3 {
+  text-transform: uppercase;
+  font-weight: 600;
+}
