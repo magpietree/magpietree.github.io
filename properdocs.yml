@@ -9,6 +9,7 @@ theme:
     logo: material/bird
 nav: 
   - Home: "index.md"
+  - Videos: "videos.md"
   - Haves: "have.md"
   - Wants: "wants.md"
 plugins:
