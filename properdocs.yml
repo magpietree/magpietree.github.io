@@ -1,12 +1,12 @@
-site_name: SITENAME
-site_url: https://SITENAME.github.io/
+site_name: non-specific bird
+site_url: https://magpietree.github.io/
 theme:
   name: material
   palette:
     scheme: slate
-    primary: pink
+    primary: teal
   icon: 
-    logo: material/emoticon-cry-outline
+    logo: material/bird
 nav: 
   - Home: "index.md"
   - Haves: "have.md"
