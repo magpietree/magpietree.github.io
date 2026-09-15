@@ -359,7 +359,7 @@ Dracula (Kip Williams) - Noël Coward Theatre - February, 2026 (MTTZ's master) |
 
 <div class="smtxt">Cast: Emily Barber (Ewen Montagu & others), Seán Carey (Charles Cholmondeley & Others), Claire Marie-Hall (Jean Leslie & Others), Christian Andrews (Hester Leggett & Others), Chloe Hart (Johnny Bevan & Others)</div>
 
-Master’s notes: Solid capture of one of my favorite shows currently running in the world. Shot in a fantastic mix of wides, mediums, and close-ups. Some increased wandering, shaking, and re-adjusting throughout. Act 1 is impeccable, some of my best work, with only a bar in the way at the bottom that doesn't block anything. Act 2 is more mixed, especially in the first 20-ish minutes, but still captures a lot of action with only a few dropouts throughout and some obstruction and wandering/shaking that goes away afterwards. Some rustling can be heard throughout. Overall a very good capture.</div>
+<div class="smtxt">Master’s notes: Solid capture of one of my favorite shows currently running in the world. Shot in a fantastic mix of wides, mediums, and close-ups. Some increased wandering, shaking, and re-adjusting throughout. Act 1 is impeccable, some of my best work, with only a bar in the way at the bottom that doesn't block anything. Act 2 is more mixed, especially in the first 20-ish minutes, but still captures a lot of action with only a few dropouts throughout and some obstruction and wandering/shaking that goes away afterwards. Some rustling can be heard throughout. Overall a very good capture.</div>
 
 <div class="smtxt">Trade: Yes</div>
 
@@ -425,7 +425,7 @@ Master’s notes: Solid capture of one of my favorite shows currently running in
 
 <div class="smtxt">Master's notes: nobody in this cast, nor even andrew lloyd webber, was alive to witness any of the events that happened. from memory this is a fine video. i love maddie</div>
 
-Trade: NFT until January 8, 2027
+<div class="smtxt">Trade: NFT until January 8, 2027</div>
 
 🎥 Operation Mincemeat - Broadway - February, 2025 (2) (The Riddle's master) | MP4 10.94 GB
 
