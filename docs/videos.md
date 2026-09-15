@@ -2,11 +2,11 @@
 
 🎥 American Idiot - Deaf West - October, 2024 (MTTZ’s Master) | MP4 (4K) 7.76GB
 
-Cast: Daniel Durant (Johnny), Milo Manheim (Voice of Johnny), Otis Jones IV (Will), James Olivas (Voice of Will), Landen Gonzales (Tunny), Brady Fritz (Voice of Tunny), Ali Fumiko Whitney (Heather), Mars Storm Rucker (Whatsername), Mason Alexander Park (St. Jimmy), Kaia T. Fitzgerald (Extraordinary Girl), Jerusha Cavazos (Voice of Extraordinary Girl), Will Branner (Favorite Son), Monika Peña (Alysha), Steven-Adam Agdeppa (Ensemble), Lark Detweiler (Ensemble), Josué Martinez (Ensemble), Angel Theory (Ensemble), Mia Sempertegui (Ensemble)
+<div class="smtxt">Cast: Daniel Durant (Johnny), Milo Manheim (Voice of Johnny), Otis Jones IV (Will), James Olivas (Voice of Will), Landen Gonzales (Tunny), Brady Fritz (Voice of Tunny), Ali Fumiko Whitney (Heather), Mars Storm Rucker (Whatsername), Mason Alexander Park (St. Jimmy), Kaia T. Fitzgerald (Extraordinary Girl), Jerusha Cavazos (Voice of Extraordinary Girl), Will Branner (Favorite Son), Monika Peña (Alysha), Steven-Adam Agdeppa (Ensemble), Lark Detweiler (Ensemble), Josué Martinez (Ensemble), Angel Theory (Ensemble), Mia Sempertegui (Ensemble)</div>
 
-Master's notes: Excellent capture of this incredibly transformative production in previews! Shot in a great mix of wides, mediums, and close-ups, wider than usual overall due to the nature of the staging. Obstruction on the bottom left of the stage that only blocks some minor action and is worked around well. Some wandering, shaking, and re-adjusting throughout. A couple of brief dropouts. Does not include the post-bows song. Audio is patched in from an external source. Overall a wonderful capture.
+<div class="smtxt">Master's notes: Excellent capture of this incredibly transformative production in previews! Shot in a great mix of wides, mediums, and close-ups, wider than usual overall due to the nature of the staging. Obstruction on the bottom left of the stage that only blocks some minor action and is worked around well. Some wandering, shaking, and re-adjusting throughout. A couple of brief dropouts. Does not include the post-bows song. Audio is patched in from an external source. Overall a wonderful capture.</div>
 
-Trade: Yes
+<div class="smtxt">Trade: Yes</div>
 
 ---
 
