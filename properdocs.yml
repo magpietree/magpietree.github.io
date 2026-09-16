@@ -3,8 +3,9 @@ site_url: https://magpietree.github.io/
 theme:
   name: material
   palette:
-    scheme: slate
+    scheme: default
     primary: teal
+    accent: light green
   icon: 
     logo: material/bird
   font:
