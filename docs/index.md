@@ -1,7 +1,11 @@
 # non-specific bird
 
-## Pages
+###### sometimes magpietreetrades | like a bird
 
-- [Haves](haves.md)
-- [Wants](wants.md)
+Status: open to trades :)
+
+Normal rules apply. Contact me via discord or email magpietree@proton.me
+
 - [Videos](videos.md)
+- [Audios](audios.md)
+- [Pro-shots](proshots.md)
