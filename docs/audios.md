@@ -1,6 +1,6 @@
-### Hadestown
+### Hadestown (4)
 
-Hadestown - West End - February 10, 2024 (GloryOfTheSpring’s Master) | M4A 274MB Untracked
+🎵 Hadestown - West End - February 10, 2024 (GloryOfTheSpring’s Master) | M4A 274MB Untracked
 
 <p class="smtxt">Cast: Dónal Finn (Orpheus), Grace Hodgett-Young (Eurydice), Melanie La Barrie (Hermes), Zachary James (Hades), Gloria Onitiri (Persephone), Bella Brown (Fate), Madeline Charlemagne (Fate), Allie Daniel (Fate), Lauren Azania (Worker), Tiago Dhont Bamberger (Worker), Beth Hinton-Lever (Worker), Waylon Jacobs (Worker), Christopher Short (Worker)</p>
 
@@ -8,7 +8,7 @@ Hadestown - West End - February 10, 2024 (GloryOfTheSpring’s Master) | M4A 274
 
 <p class="smtxt">Trade: Yes</p>
 
-Hadestown - West End - June 4, 2024 (Evening) (bobbyskazoo's master) | M4A 557MB Untracked
+🎵 Hadestown - West End - June 4, 2024 (Evening) (bobbyskazoo's master) | M4A 557MB Untracked
 
 <p class="smtxt">Cast: Dónal Finn (Orpheus), Madeline Charlemagne (u/s Eurydice), Zachary James (Hades), Gloria Onitiri (Persephone), Melanie La Barrie (Hermes), Bella Brown (Fate), Miriam Nyarko (s/w Fate), Allie Daniel (Fate), Lauren Azania (Worker), Tiago Dhondt Bamberger (Worker), Lucinda Buckley (s/w Worker), Waylon Jacobs (Worker), Christopher Short (Worker)</p>
 
@@ -16,7 +16,7 @@ Hadestown - West End - June 4, 2024 (Evening) (bobbyskazoo's master) | M4A 557MB
 
 <p class="smtxt">Trade: Yes | Gift: No</p>
 
-Hadestown - West End - June 11, 2024 (Evening) (bobbyskazoo’s master) | M4A 356.8MB Untracked
+🎵 Hadestown - West End - June 11, 2024 (Evening) (bobbyskazoo’s master) | M4A 356.8MB Untracked
 
 <p class="smtxt">Cast: Dónal Finn (Orpheus), Grace Hodgett-Young (Eurydice), Zachary James (Hades), Gloria Onitiri (Persephone), Melanie La Barrie (Hermes), Bella Brown (Fate), Madeline Charlemagne (Fate), Allie Daniel (Fate), Ryesha Higgs (s/w Worker), Tiago Dhondt Bamberger (Worker), Beth Hinton-Lever (Worker), Waylon Jacobs (Worker), Christopher Short (Worker)</p>
 
@@ -24,7 +24,7 @@ Hadestown - West End - June 11, 2024 (Evening) (bobbyskazoo’s master) | M4A 35
 
 <p class="smtxt">Trade: Yes | Gift: No</p>
 
-Hadestown - West End - April 4th 2026 (goingroundincircles' master) | M4A 60MB Untracked
+🎵 Hadestown - West End - April 4th 2026 (goingroundincircles' master) | M4A 60MB Untracked
 
 <p class="smtxt">Cast: Marley Fenton (Orpheus), Bethany Antonia (Eurydice), Alastair Parker (Hades), Clive Rowe (Hermes), Rachel Adedeji (Persephone), Milly Willows (Fate), Lauran Rae (Fate), Spike Maxwell (Fate), Gabriela Benedetti (Worker), Michelle Andrews (Worker), Sebastian Lim-Seet (Worker), Femi Akinfolarin (Worker), Ollie Bingham (Worker)</p>
 
@@ -34,9 +34,9 @@ Hadestown - West End - April 4th 2026 (goingroundincircles' master) | M4A 60MB U
 
 ---
 
-### Operation Mincemeat
+### Operation Mincemeat (10)
 
-Operation Mincemeat - West End - August 1, 2024 (GloryOfTheSpring’s Master) | M4A 115MB Untracked
+🎵 Operation Mincemeat - West End - August 1, 2024 (GloryOfTheSpring’s Master) | M4A 115MB Untracked
 
 <p class="smtxt">Cast: Geri Allen (s/w Ewen Montagu & Others), George Jennings (s/w Charles Cholmondeley & Others), Claire-Marie Hall (Jean Leslie & Others), Christian Andrews (Hester Leggett & Others), Chloe Hart (Johnny Bevan & Others)</p>
 
@@ -44,8 +44,7 @@ Operation Mincemeat - West End - August 1, 2024 (GloryOfTheSpring’s Master) | 
 
 <p class="smtxt">Trade: Yes</p>
 
-
-Operation Mincemeat - West End - January 31st 2025 (Wheredidtherockgo's master) | AAC 240MB Untracked
+🎵 Operation Mincemeat - West End - January 31st 2025 (Wheredidtherockgo's master) | AAC 240MB Untracked
 
 <p class="smtxt">Cast: Emily Barber (Ewen Montagu & others), George Jennings (s/b Charles Cholmondeley & Others), Madeleine Jackson-Smith (Jean Leslie & Others), Christian Andrews (Hester Leggett & Others), Chloë Hart (Johnny Bevan & Others)</p>
 
@@ -53,8 +52,7 @@ Operation Mincemeat - West End - January 31st 2025 (Wheredidtherockgo's master) 
 
 <p class="smtxt">Trade: Yes</p>
 
-
-Operation Mincemeat - West End - February 20th 2025 (Skrunkles master) | AAC 92.5MB Untracked
+🎵 Operation Mincemeat - West End - February 20th 2025 (Skrunkles master) | AAC 92.5MB Untracked
 
 <p class="smtxt">Cast: Holly Sumpton (Ewen Montagu & others), Seán Carey (Charles Cholmondeley & others), Chlöe Hart (Johnny Bevan & others), George Jennings (s/b Hester Leggatt & others), Madeleine Jackson-Smith (Jean Leslie & others).</p>
 
@@ -62,8 +60,7 @@ Operation Mincemeat - West End - February 20th 2025 (Skrunkles master) | AAC 92.
 
 <p class="smtxt">Trade: Yes</p>
 
-
-Operation Mincemeat - West End - April 5th, 2025 (Sassysnowglobe's master) | M4A 304MB Untracked
+🎵 Operation Mincemeat - West End - April 5th, 2025 (Sassysnowglobe's master) | M4A 304MB Untracked
 
 <p class="smtxt">Cast: Holly Sumpton (Ewen Montagu & Others), George Jennings (s/w Charles Cholmondeley & Others), Chlöe Hart (Johnny Bevan & Others), Jonty Peach (s/w Hester Leggatt & Others), Madeleine Jackson-Smith (Jean Leslie & Others)</p>
 
@@ -71,8 +68,7 @@ Operation Mincemeat - West End - April 5th, 2025 (Sassysnowglobe's master) | M4A
 
 <p class="smtxt">Trade: Yes | Gift: Yes</p>
 
-
-Operation Mincemeat - West End - May 12, 2025 (Skrunkles' master) | M4A 97MB Untracked
+🎵 Operation Mincemeat - West End - May 12, 2025 (Skrunkles' master) | M4A 97MB Untracked
 
 <p class="smtxt">Cast: Alex Young (Ewen Montagu & Others), Peter McGovern (Charles Cholmondeley & Others), Chlöe Hart (Johnny Bevan & Others), Danny Becker (Hester Leggatt & Others), Roshani Abbey (Jean Leslie & Others)</p>
 
@@ -80,8 +76,7 @@ Operation Mincemeat - West End - May 12, 2025 (Skrunkles' master) | M4A 97MB Unt
 
 <p class="smtxt">Trade: Yes</p>
 
-
-Operation Mincemeat - West End - September 4, 2025 - (LikeABoulevard's master) | M4A 63.6MB Untracked
+🎵 Operation Mincemeat - West End - September 4, 2025 - (LikeABoulevard's master) | M4A 63.6MB Untracked
 
 <p class="smtxt">Cast: Alex Young (Ewen Montagu & Others), Peter McGovern (Charles Cholmondeley & Others), Chlöe Hart (Johnny Bevan & Others), George Jennings (s/b Hester Leggatt & Others), Roshani Abbey (Jean Leslie & Others)</p>
 
@@ -89,8 +84,7 @@ Operation Mincemeat - West End - September 4, 2025 - (LikeABoulevard's master) |
 
 <p class="smtxt">Trade: Yes</p>
 
-
-Operation Mincemeat - West End - March 4, 2026 (GloryOfTheSpring’s master) | M4A 61.2MB Untracked
+🎵 Operation Mincemeat - West End - March 4, 2026 (GloryOfTheSpring’s master) | M4A 61.2MB Untracked
 
 <p class="smtxt">Cast: Alex Young (Ewen Montagu & Others), Peter McGovern (Charles Cholmondeley & Others), Roshani Abbey (Jean Leslie & Others), Jason Kajdi (s/w Hester Leggatt & Others), Chlöe Hart (Johnny Bevan & Others)</p>
 
@@ -98,8 +92,7 @@ Operation Mincemeat - West End - March 4, 2026 (GloryOfTheSpring’s master) | M
 
 <p class="smtxt">Trade: Yes</p>
 
-
-Operation Mincemeat - Broadway - February 15 2025 (bobbyskazoo’s master) | M4A 397.7MB Untracked
+🎵 Operation Mincemeat - Broadway - February 15 2025 (bobbyskazoo’s master) | M4A 397.7MB Untracked
 
 <p class="smtxt">Cast: Natasha Hodgson (Ewen Montagu & Others), David Cumming (Charles Cholmondeley & Others), Zoe Roberts (Johnny Bevan & Others), Jak Malone (Hester Leggatt & Others), Claire-Marie Hall (Jean Leslie & Others)</p>
 
@@ -107,8 +100,7 @@ Operation Mincemeat - Broadway - February 15 2025 (bobbyskazoo’s master) | M4A
 
 <p class="smtxt">Trade: Yes | Gift: No</p>
 
-
-Operation Mincemeat - Broadway - February 22, 2026 (Matinee) (bobbyskazoo’s master) | M4A 457.5MB Untracked
+🎵 Operation Mincemeat - Broadway - February 22, 2026 (Matinee) (bobbyskazoo’s master) | M4A 457.5MB Untracked
 
 <p class="smtxt">Cast: Natasha Hodgson (Ewen Montagu & Others), David Cumming (Charles Cholmondeley & Others), Zoe Roberts (Johnny Bevan & Others), Jak Malone (Hester Leggatt & Others), Claire-Marie Hall (Jean Leslie & Others)</p>
 
@@ -116,8 +108,7 @@ Operation Mincemeat - Broadway - February 22, 2026 (Matinee) (bobbyskazoo’s ma
 
 <p class="smtxt">Trade: Yes | Gift: No</p>
 
-
-Operation Mincemeat - Broadway - February 24, 2026 (bobbyskazoo’s master) | M4A 238MB Untracked
+🎵 Operation Mincemeat - Broadway - February 24, 2026 (bobbyskazoo’s master) | M4A 238MB Untracked
 
 <p class="smtxt">Cast: Julia Knitel (Ewen Montagu & Others), Brandon Contreras (Charles Cholmondeley & Others), Amanda Jill Robinson (Johnny Bevan & Others), Jeff Kready (Hester Leggatt & Others), Jessi Kirtley (Jean Leslie & Others)</p>
 
@@ -127,9 +118,9 @@ Operation Mincemeat - Broadway - February 24, 2026 (bobbyskazoo’s master) | M4
 
 ---
 
-### THESPIANS
+### Thespians (1)
 
-Thespians - UK Tour - July 4 Matinee, 2026 (nonspecificbird's master) (that's me!) | MP3 150MB
+🎵 Thespians - UK Tour - July 2026 (nonspecificbird's master) (that's me!) | MP3 150MB
 
 <p class="smtxt">Cast: Marc Pickering (Bard), Allie Dart (Rhapsodes), James Spence (Thespis), Claire-Marie Hall (Poly), Luke Latchman (Atlas), Mia Jerome (Melampus), Josh Patel-Foster (u/s Adonis), Rhys Taylor (The Tyrant), Ashley Tucker, Curtis Patrick</p>
 
