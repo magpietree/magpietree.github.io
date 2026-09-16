@@ -3,15 +3,30 @@ site_url: https://magpietree.github.io/
 theme:
   name: material
   palette:
-    scheme: slate
+  
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+        
     primary: teal
+    accent: green
   icon: 
     logo: material/bird
+  font:
+    text: Josefin Sans
 nav: 
   - Home: "index.md"
   - Videos: "videos.md"
-  - Haves: "have.md"
-  - Wants: "wants.md"
+  - Audios: "audios.md"
+  - Pro-shots: "proshots.md"
 plugins:
   - macros
   - table-reader:
