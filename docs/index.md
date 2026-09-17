@@ -1,4 +1,4 @@
-###### non-specific bird | magpietreetrades
+**non-specific bird | magpietreetrades**
 
 Status: open to trades :)
 
