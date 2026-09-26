@@ -86,6 +86,18 @@
 
 ---
 
+### Chess (1)
+
+🎥 Chess - Broadway (Revival) - 2025, October (The Riddle’s master) | MP4 (4K) 12.40GB
+
+<p class="smtxt">Cast: Nicholas Christopher (Anatoly Sergievsky), Aaron Tveit (Freddie Trumper), Lea Michele (Florence Vassy), Hannah Cruz (Svetlana), Bryce Pinkham (The Arbiter), Bradley Dean (Molokov), Sean Allan Krill (Walter), Kyla Bartholomeusz (Ensemble), Daniel Beeman (Ensemble), Shavey Brown (Ensemble), Casey Garvin (Ensemble), Adam Halpin (Ensemble), Aliah James (Ensemble), Sydney Jones (Ensemble), Sean MacLaughlin (Ensemble), Sarah Meahl (Ensemble), Ramone Nelson (Ensemble), Michael Olaribigbe (Ensemble), Katerina Papacostas (Ensemble), Aleksander Ivan Pevec (Ensemble), Samantha Pollino (Ensemble), Regine Sophie (Ensemble), Katie Webber (Ensemble)</p>
+
+<p class="smtxt">Notes: Great 4k capture of the electric first preview of this revival! Little to no obstruction throughout, although unfortunately a lighting rig blocks the right of the upper level. Some washout in wider shots and wandering throughout, with minor instances of the camera focusing on the wrong thing due to usher activity. Many blackouts during the first ten minutes or so, also due to usher activity. Includes bows and audio of most of the overture.</p>
+
+<p class="smtxt">Trade: Yes</p>
+
+---
+
 ### Clueless (1)
 
 🎥 Clueless - West End - August, 2025 (MTTZ’s Master) | MP4 (4K) 8.42GB
@@ -331,7 +343,7 @@
 
 ---
 
-### Operation Mincemeat (💛15)
+### Operation Mincemeat (💛18)
 
 *Grouped by West End or Broadway and then by date.*
 
@@ -423,7 +435,7 @@
 
 <p class="smtxt">Trade: NFT until December 3, 2026</p>
 
-🎥 Operation Mincemeat - West End - March, 2026 (2) - (AndrewLloydWebbersiPad's master) | MP4 6.21GB
+🎥 Operation Mincemeat - West End - March, 2026 (2) (AndrewLloydWebbersiPad's master) | MP4 6.21GB
 
 <p class="smtxt">Cast: Madeline Jackson-Smith (Ewen Montagu & Others), Peter McGovern (Charles Cholmondeley & Others), Geri Allen (s/b Johnny Bevan & Others), Jason Kajdi (s/b Hester Leggatt & Others), Roshani Abbey (Jean Leslie & Others)</p>
 
@@ -431,11 +443,39 @@
 
 <p class="smtxt">Trade: NFT until January 8, 2027</p>
 
+🎥 Operation Mincemeat - West End - April, 2026 (2) (AndrewLloydWebbersiPad's master) | MP4 6.14GB
+
+<p class="smtxt">Cast: Madeleine Jackson-Smith (s/b Ewen Montagu & Others), George Jennings (s/b Charles Cholmondeley & Others), Geri Allen (s/b Johnny Bevan & Others), Jason Kajdi (s/b Hester Leggatt & Others), Roshani Abbey (Jean Leslie & Others)</p>
+
+<p class="smtxt">Master Notes: Madeleine, the name of ALW's current wife, and also cover - but also the name of now princpial monty mincemeat<br />
+George, the name of a man who knows more about ALW than I do and wrote one man musical to prove it, but hes not been a cover for charlie mincemeat<br />
+Geri, a spice girl who's seen jesus christ superstar, but not the Geri who was a bevan mincemeat cover<br />
+Jason, the name of a man whos played ALW's Joseph, but not all Jasons get to cover hester mincemeat.<br />
+usual fortune stuff, slight overexposure, heads and walls in the way. minced meats. four swings and i love them all.</p>
+
+<p class="smtxt">Trade: NFT until March 18, 2027</p>
+
 🎥 Operation Mincemeat - Broadway - February, 2025 (2) (The Riddle's master) | MP4 10.94 GB
 
 <p class="smtxt">Cast: Natasha Hodgson (Ewen Montagu & Others), David Cumming (Charles Cholmondeley & Others), Zoe Roberts (Johnny Bevan & Others), Jak Malone (Hester Leggatt & Others), Claire-Marie Hall (Jean Leslie & Others)</p>
 
 <p class="smtxt">Master's notes: Great 4k capture of the Broadway production during previews! The energy tonight was a bit unhinged and there were some really fun mishaps. Some tilt, wandering, and obstruction throughout, but probably the least obstructed video of the three.  Very much a fancam of Tash. Never Gift.</p>
+
+<p class="smtxt">Trade: Yes | Gift: No</p>
+
+🎥 Operation Mincemeat - Broadway - February, 2025 (6) (The Riddle's master) | MP4 12.35GB
+
+<p class="smtxt">Cast: Natasha Hodgson (Ewen Montagu & others),  Jak Malone (Hester Leggatt & others), Claire-Marie Hall (Jean Leslie & others), Zoë Roberts (Johnny Bevan & others), David Cumming (Charles Cholomondley & others)</p>
+
+<p class="smtxt">Notes: Excellent 4k capture of the original cast's final show.  More wide shots this time to capture the ensemble nature of the piece and all of the lovely moments that they shared with each other.  Still has an emphasis on the women at times.  A few moments of wandering and blackouts, usually never more than a few seconds, largely due to movement in the aisle.  Some shakiness periodically.  Includes bows, Natasha's speech, and the sing-along to "Sail On, Boys" - there's a slight dip in volume at this point.  I'll never stop thinking about this performance.</p>
+
+<p class="smtxt">Trade: Yes | Gift: No</p>
+
+🎥 Operation Mincemeat - Broadway - February, 2025 (7) (The Riddle's master) | MP4 11.07GB
+
+<p class="smtxt">Cast: Julia Knitel (Ewen Montagu & others),  Jeff Kready (Hester Leggatt & others), Jessi Kirtley (Jean Leslie & others), Amanda Jill Robinson (Johnny Bevan & others), Brandon Contreras (Charles Cholomondley & others)</p>
+
+<p class="smtxt">Notes: Excellent 4k capture of the new cast's debut performance!  Shot with a mix of mediums, wides, and close-ups, with some emphasis on Julia's Monty that I filmed for the gay people in my phone.  Includes Julia's speech about kid's night on Broadway and bows.</p>
 
 <p class="smtxt">Trade: Yes | Gift: No</p>
 
