@@ -10,7 +10,11 @@
 }
 
 .tnft {
-  font-color: red;
+  color: #ff6000;
+}
+
+.tnftf {
+  color: #ff003c;
 }
 
 h3 {
