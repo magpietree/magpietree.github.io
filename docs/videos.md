@@ -6,11 +6,11 @@
 
 🎥 American Idiot - Deaf West - October, 2024 (MTTZ’s Master) | MP4 (4K) 7.76GB
 
-<p class="smtxt">Cast: Daniel Durant (Johnny), Milo Manheim (Voice of Johnny), Otis Jones IV (Will), James Olivas (Voice of Will), Landen Gonzales (Tunny), Brady Fritz (Voice of Tunny), Ali Fumiko Whitney (Heather), Mars Storm Rucker (Whatsername), Mason Alexander Park (St. Jimmy), Kaia T. Fitzgerald (Extraordinary Girl), Jerusha Cavazos (Voice of Extraordinary Girl), Will Branner (Favorite Son), Monika Peña (Alysha), Steven-Adam Agdeppa (Ensemble), Lark Detweiler (Ensemble), Josué Martinez (Ensemble), Angel Theory (Ensemble), Mia Sempertegui (Ensemble)</p>
+<p class="smtxt"><b>Cast:</b> Daniel Durant (Johnny), Milo Manheim (Voice of Johnny), Otis Jones IV (Will), James Olivas (Voice of Will), Landen Gonzales (Tunny), Brady Fritz (Voice of Tunny), Ali Fumiko Whitney (Heather), Mars Storm Rucker (Whatsername), Mason Alexander Park (St. Jimmy), Kaia T. Fitzgerald (Extraordinary Girl), Jerusha Cavazos (Voice of Extraordinary Girl), Will Branner (Favorite Son), Monika Peña (Alysha), Steven-Adam Agdeppa (Ensemble), Lark Detweiler (Ensemble), Josué Martinez (Ensemble), Angel Theory (Ensemble), Mia Sempertegui (Ensemble)</p>
 
-<p class="smtxt">Master's notes: Excellent capture of this incredibly transformative production in previews! Shot in a great mix of wides, mediums, and close-ups, wider than usual overall due to the nature of the staging. Obstruction on the bottom left of the stage that only blocks some minor action and is worked around well. Some wandering, shaking, and re-adjusting throughout. A couple of brief dropouts. Does not include the post-bows song. Audio is patched in from an external source. Overall a wonderful capture.</p>
+<p class="smtxt"><b>Master's notes:</b> Excellent capture of this incredibly transformative production in previews! Shot in a great mix of wides, mediums, and close-ups, wider than usual overall due to the nature of the staging. Obstruction on the bottom left of the stage that only blocks some minor action and is worked around well. Some wandering, shaking, and re-adjusting throughout. A couple of brief dropouts. Does not include the post-bows song. Audio is patched in from an external source. Overall a wonderful capture.</p>
 
-<p class="smtxt">Trade: Yes</p>
+<p class="smtxt"><b>Trade:</b> Yes</p>
 
 ---
 
@@ -33,6 +33,20 @@
 <p class="smtxt">Cast: Billy Crudup (Bernard Nightingale), Raúl Esparza (Valentine Coverly), Noah Robbins (Gus Coverly/Augustus Coverly), Lia Williams (Hannah Jarvis), Margaret Colin (Lady Croom), David Turner (Ezra Chater), Glenn Fleshler (Captain Brice), Tom Riley (Septimus Hodge), Grace Gummer (Chloë Coverly), Byron Jennings (Richard Noakes), Bel Powley (Thomasina Coverly), Edward James Hyland (Jellaby)</p>
 
 <p class="smtxt">Master's notes: Act 1 was filmed on February 26, Act Two was filmed on March 2. ​Act One shot around a few heads. Act Two has no heads in the way. Disc also includes a twenty minute interview with Raul Esparza, opening night footage and reviews. *Multiple versions are circulating, including a 3.89 GB and a 3.96 GB file. The video quality is the same, but the larger has a menu and 40 seconds of trailer clips before the show footage.</p>
+
+<p class="smtxt">Trade: Yes</p>
+
+---
+
+### Back to the Future: The Musical (1)
+
+🎥 Back to the Future: The Musical - West End - August, 2025 (AndrewLloydWebbersiPad's master) | MP4 6.16GB
+
+<p class="smtxt">Cast: Ellis Kirk (alt Marty McFly), Cory English (Doc Brown), Orlando Gibbs (George McFly), Sarah Goggin (Lorraine Baines), Louis Quinn (u/s Biff Tannen), C.J. Borger (Goldie Wilson), Lee Ormsby (Principal Strickland), Talia Palamathanan (Jennifer Parker), Patricia Wilkins (Linda McFly), Liam McHugh (Dave McFly)</p>
+
+<p class="smtxt">Master Notes: When Andrew Lloyd Webber visits one of his theatres do you think they let him choose his own seats?<br />
+generally decent capture of Ellis' last marty! some shaking and obstruction but that's to be expected. Goes blurry from the dance onward.<br />
+also if this gets out anywhere beyond, i will PERSONALLY send you to ALW's house</p>
 
 <p class="smtxt">Trade: Yes</p>
 
@@ -62,13 +76,23 @@
 
 ---
 
-### Cabaret (1)
+### Cabaret (2)
 
 🎥 Cabaret - Fifth West End Revival - June 2022 (Lasagna's master) | MP4 10.30GB
 
 <p class="smtxt">Cast: Fra Fee (Emcee), Amy Lennox (Sally Bowles), Christopher Tendai (u/s Clifford Bradshaw), Vivien Parry (Fraulein Schneider), Richard Katz (Herr Schultz), Stewart Clarke (Ernst Ludwig), Sally Frith (u/s Fraulein Kost/Fritzie), Emily Benjamin (s/w Frenchie), Chris O'Mara (s/w Hans), Josh Andrews (s/w Bobby)</p>
 
 <p class="smtxt">Notes: Sensational capture of this incredible show. Shot from the upper circle with no obstructions. At some points, particularly in act 2, sobbing (yes, sobbing) can be heard from me. Sorry about that. </p>
+
+<p class="smtxt">Trade: Yes</p>
+
+🎥 Cabaret - Fifth West End Revival - February, 2026 (AndrewLloydWebbersiPad's master) | MP4 5.74GB
+
+<p class="smtxt">Cast: Matt Willis (Emcee), Katie Hall (Sally Bowles), Baker Mukasa (Clifford Bradshaw), Ruthie Henshall (Fräulein Schneider), Robert Hands (Herr Schultz), Lucas Koch (Ernst Ludwig), Jessica Kirton (Fräulein Kost/Fritzie), Eva-Rose Tanaka (Frenchie), Adrian Grove (Max), Joe Atkinson (Victor), Manu Sarswat (s/w Lulu), Xavion Campbell Brown (Bobby), Ela Lisondra (s/w Rosie), Alexandra Regan (Rosie), Marina Tavolieri (s/w Helga), Olivia-Rose Deer (Helga), Tom Scanlon (Hans), Anya Ferdinand (Texas)</p>
+
+<p class="smtxt">Master Notes: Tell Me On a Sunday, featuring music by Andrew Lloyd Webber and lyrics by Don Black, is a dramatic, one woman cabaret-style musical, unlike Sally Bowles who is dramatic and in cabaret.<br />
+show stop during act 1 due to an audience member having a medical emergency, and almost tripping one of the cast.<br />
+mostly in focus and catches the action well.</p>
 
 <p class="smtxt">Trade: Yes</p>
 
@@ -175,9 +199,9 @@
 
 🎥 Dracula (Kip Williams) - Noël Coward Theatre - February, 2026 (MTTZ's master) | MP4(4K) 9.15GB
 
-<p class="smtxt">Cast:Cynthia Erivo (Dracula/Others)</p>
+<p class="smtxt">Cast: Cynthia Erivo (Dracula/Others)</p>
 
-<p class="smtxt">Master notes:Great capture of this one-woman adaptation in early previews! Shot in mostly wides to capture all that was happening on the screens, with a few mediums and close-ups sparsely scattered in. Some increased wandering, shaking, and re-adjusting. Audio is patched in from an external source; some scraping and rustling might be heard during readjustment periods. Shot around minor head obstruction that doesn’t block any significant action. Overall a great capture. Folder also contains video of the first 6 minutes of the show that end with a show stop from Cynthia, where she then restarted from the top.</p>
+<p class="smtxt">Master notes: Great capture of this one-woman adaptation in early previews! Shot in mostly wides to capture all that was happening on the screens, with a few mediums and close-ups sparsely scattered in. Some increased wandering, shaking, and re-adjusting. Audio is patched in from an external source; some scraping and rustling might be heard during readjustment periods. Shot around minor head obstruction that doesn’t block any significant action. Overall a great capture. Folder also contains video of the first 6 minutes of the show that end with a show stop from Cynthia, where she then restarted from the top.</p>
 
 <p class="smtxt">Trade: Yes</p>
 
@@ -279,9 +303,9 @@
 
 🎥 John Proctor is the Villain - Broadway - April 2025 (MTTZ's master) | MP4 (4K) 7.79GB
 
-<p class="smtxt">Sadie Sink (Shelby Holcomb), Nihar Duvvuri (Mason Adams), Gabriel Ebert (Carter Smith), Molly Griggs (Bailey Gallagher), Maggie Kuntz (Ivy Watkins), Hagan Oliveras (Lee Turner), Morgan Scott (Nell Shaw), Fina Strazza (Beth Powell), Amalia Yoo (Raelynn Nix)</p>
+<p class="smtxt">Cast: Sadie Sink (Shelby Holcomb), Nihar Duvvuri (Mason Adams), Gabriel Ebert (Carter Smith), Molly Griggs (Bailey Gallagher), Maggie Kuntz (Ivy Watkins), Hagan Oliveras (Lee Turner), Morgan Scott (Nell Shaw), Fina Strazza (Beth Powell), Amalia Yoo (Raelynn Nix)</p>
 
-<p class="smtxt">Excellent capture of this incredible new play! Shot in a great mix of wides, mediums, and close-ups; more wides than usual due to the staging and lighting of the play. Audio is patched in from an external source. A few brief dropouts. Some increased wandering, shaking, and re-adjusting throughout. Overall an excellent capture of this amazing new play. </p>
+<p class="smtxt">Notes: Excellent capture of this incredible new play! Shot in a great mix of wides, mediums, and close-ups; more wides than usual due to the staging and lighting of the play. Audio is patched in from an external source. A few brief dropouts. Some increased wandering, shaking, and re-adjusting throughout. Overall an excellent capture of this amazing new play.</p>
 
 <p class="smtxt">Trade: Yes</p>
 
@@ -291,7 +315,7 @@
 
 <p class="smtxt">Master's notes: 21 year old ALW could have learned so much from this amazing but devastating play. Occasionally partially obstructed but imo, watchable, please ensure to check official trigger warnings.</p>
 
-<p class="smtxt">Trade: NFT until January 9, 2027</p>
+<p class="smtxt tnft">Trade: NFT until January 9, 2027</p>
 
 ---
 
@@ -304,6 +328,19 @@
 <p class="smtxt">Notes: Excellent capture of this fringe comedy that ended up being one of the best things I saw on my London trip. Some occasional minor obstruction on the bottom right of the screen that doesn't block any action. Shot in a great mix of wides, mediums, and close-ups, though more medium and wide here due to the staging of the piece. Some wandering, shaking, and re-adjusting throughout. A couple of brief dropouts. Overall an excellent capture of this hilarious musical. If you hear me sneeze really loudly at one point, no you don't.</p>
 
 <p class="smtxt">Trade: Yes</p>
+
+---
+
+### Kinky Boots (1)
+
+🎥 Kinky Boots - First West End Revival - April, 2026 (AndrewLloydWebbersiPad's master) | MP4 6.25GB
+
+<p class="smtxt">Cast: Tosh Wanogho-Maud (alt Lola), Matt Cardle (Charlie Price), Courtney Bowman (Lauren)</p>
+
+<p class="smtxt">Master Notes: Every day i fight demons, and those demons are doing an Andrew Lloyd Webber drag act.<br />
+Generally good video, lighting and focus is sometimes an issue, but I had a blast!</p>
+
+<p class="smtxt tnft">Trade: NFT until March 18, 2027</p>
 
 ---
 
@@ -393,7 +430,7 @@
 
 <p class="smtxt">Master's notes: Great capture of the new cast! Shot between heads.</p>
 
-<p class="smtxt">Trade: NFT until 01/08/2027</p>
+<p class="smtxt tnft">Trade: NFT until August 1, 2027<</p>
 
 🎥 Operation Mincemeat - West End - September, 2025 Highlights (Lasagna's master) | MP4 (4K) 2.23GB
 
@@ -401,7 +438,7 @@
 
 <p class="smtxt">Master's notes: Highlights of this fun cover show! Various clips amounting to around 30 mins of footage, including Dear Bill, Willie Watkins, and Useful</p>
 
-<p class="smtxt">Trade: NFT until 01/08/2027</p>
+<p class="smtxt tnft">Trade: NFT until August 1, 2027</p>
 
 🎥 Operation Mincemeat - West End - January, 2026 (hitmewithyourbethshot's master) | MP4 8.24 GB
 
@@ -417,7 +454,7 @@
 
 <p class="smtxt">Master's notes: Lloyd Webber once owned a 1939 Bentley Mark V. During the war, this specific vehicle was used by a London Rolls-Royce dealer who painted it in camouflage to avoid German bombs. First of my many, many, MANY delvings in to mincemeat. lovely jason charlie goodness, heavy focus on him but not fancam. slightly overexposed and occasionally restricted. its the fortune dont expect too much.</p>
 
-<p class="smtxt">Trade: NFT until December 3, 2026</p>
+<p class="smtxt tnft">Trade: NFT until December 3, 2026</p>
 
 🎥 Operation Mincemeat - West End- January, 2026 (2) - (AndrewLloydWebbersiPad's master) | MP4 5.81GB
 
@@ -425,7 +462,7 @@
 
 <p class="smtxt">Master's notes: Andrew Lloyd Webber was born on March 22, 1948—years after the conclusion of World War II. Cover boys show! very beloved to me. as usual its the fortune. dont expect too much, there's heads, overexposure, out of focus. a hope a dream and a wish. its generally watchable, but dont say i didnt warn you, my camera hated me for months.</p>
 
-<p class="smtxt">Trade: NFT until December 3, 2026</p>
+<p class="smtxt tnft">Trade: NFT until December 3, 2026</p>
 
 🎥 Operation Mincemeat - West End - March, 2026 (1) - (AndrewLloydWebbersiPad's master) | MP4 6.05GB
 
@@ -433,7 +470,7 @@
 
 <p class="smtxt">Master's notes: Phantom of the Opera used to run simultaneously in New York and London, but now mincemeat does instead. No thoughts, head empty, Geri Allen. I filmed this in a very bisexual time of my life. usual its the fortune may be out of focus or over exposed, may have a head in the way, does have george and geri.</p>
 
-<p class="smtxt">Trade: NFT until December 3, 2026</p>
+<p class="smtxt tnft">Trade: NFT until December 3, 2026</p>
 
 🎥 Operation Mincemeat - West End - March, 2026 (2) (AndrewLloydWebbersiPad's master) | MP4 6.21GB
 
@@ -441,7 +478,7 @@
 
 <p class="smtxt">Master's notes: nobody in this cast, nor even andrew lloyd webber, was alive to witness any of the events that happened. from memory this is a fine video. i love maddie</p>
 
-<p class="smtxt">Trade: NFT until January 8, 2027</p>
+<p class="smtxt tnft">Trade: NFT until January 8, 2027</p>
 
 🎥 Operation Mincemeat - West End - April, 2026 (2) (AndrewLloydWebbersiPad's master) | MP4 6.14GB
 
@@ -453,7 +490,7 @@ Geri, a spice girl who's seen jesus christ superstar, but not the Geri who was a
 Jason, the name of a man whos played ALW's Joseph, but not all Jasons get to cover hester mincemeat.<br />
 usual fortune stuff, slight overexposure, heads and walls in the way. minced meats. four swings and i love them all.</p>
 
-<p class="smtxt">Trade: NFT until March 18, 2027</p>
+<p class="smtxt tnft">Trade: NFT until March 18, 2027</p>
 
 🎥 Operation Mincemeat - Broadway - February, 2025 (2) (The Riddle's master) | MP4 10.94 GB
 
@@ -463,7 +500,7 @@ usual fortune stuff, slight overexposure, heads and walls in the way. minced mea
 
 <p class="smtxt">Trade: Yes | Gift: No</p>
 
-🎥 Operation Mincemeat - Broadway - February, 2025 (6) (The Riddle's master) | MP4 12.35GB
+🎥 Operation Mincemeat - Broadway - February, 2026 (6) (The Riddle's master) | MP4 12.35GB
 
 <p class="smtxt">Cast: Natasha Hodgson (Ewen Montagu & others),  Jak Malone (Hester Leggatt & others), Claire-Marie Hall (Jean Leslie & others), Zoë Roberts (Johnny Bevan & others), David Cumming (Charles Cholomondley & others)</p>
 
@@ -471,7 +508,7 @@ usual fortune stuff, slight overexposure, heads and walls in the way. minced mea
 
 <p class="smtxt">Trade: Yes | Gift: No</p>
 
-🎥 Operation Mincemeat - Broadway - February, 2025 (7) (The Riddle's master) | MP4 11.07GB
+🎥 Operation Mincemeat - Broadway - February, 2026 (7) (The Riddle's master) | MP4 11.07GB
 
 <p class="smtxt">Cast: Julia Knitel (Ewen Montagu & others),  Jeff Kready (Hester Leggatt & others), Jessi Kirtley (Jean Leslie & others), Amanda Jill Robinson (Johnny Bevan & others), Brandon Contreras (Charles Cholomondley & others)</p>
 
@@ -614,3 +651,17 @@ usual fortune stuff, slight overexposure, heads and walls in the way. minced mea
 <p class="smtxt">Master's Notes: This is a vivid 4K video with almost no obstructions. Pretty much everything is centered, with beautiful zooms but also wider shots that showcase the dancing and set design. At times the video appears on an angle because my wrists are weak, but you don't miss anything because of it. There is also washout at times, but I do believe my camera handles the spotlights better than in a lot of Wicked videos. Act 2 starts a minute into the performance. All in all, this is a gorgeous capture of old and new cast members... I'm not finished yet in this bootleg business but if I was, this could be my magnum opus.</p>
 
 <p class="smtxt">Trade: Yes</p>
+
+---
+
+### Waitress (1)
+
+🎥 Waitress - UK & Ireland Tour - April, 2026 (AndrewLloydWebbersiPad's master) | MP4 5.35GB
+
+<p class="smtxt">Cast: Carrie Hope Fletcher (Jenna), Sandra Marvin (Becky), Evelyn Hoskins (Dawn), Dan Partridge (Dr. Pomatter), Mark Anderson (Ogie), Dan O'Brien (Cal), Les Dennis (Joe), Mark Willshire (Earl), David Mairs-McKenzie (Ensemble)</p>
+
+<p class="smtxt">Master Notes: Like when Joseph interpreted Pharaoh's dreams, this musical, too, is filled with endless wheat, making us well fed in terms of quality.<br />
+might be the only recording of the reduced staging version<br />
+Occasionally restricted and overexposed, this theatre has beef with me</p>
+
+<p class="smtxt tnft">Trade: NFT until January 9, 2027</p>
