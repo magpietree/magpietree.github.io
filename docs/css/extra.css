@@ -9,6 +9,10 @@
   margin-bottom: 1em;
 }
 
+.tnft {
+  font-color: red;
+}
+
 h3 {
   text-transform: uppercase;
   font-weight: bold;
