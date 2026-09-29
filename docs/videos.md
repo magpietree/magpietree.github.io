@@ -380,9 +380,9 @@ Generally good video, lighting and focus is sometimes an issue, but I had a blas
 
 ---
 
-### Operation Mincemeat (💛18)
+### Operation Mincemeat (💛21)
 
-*Grouped by West End or Broadway and then by date.*
+*Grouped by West End | UK Tour | Broadway and then by date.*
 
 🎥 Operation Mincemeat - West End - August 2023 (hitmewithyourbethshot's master) | MTS 15.2GB
 
@@ -390,7 +390,7 @@ Generally good video, lighting and focus is sometimes an issue, but I had a blas
 
 <p class="smtxt"><b>Notes:</b> Shot around safety rails. 5 separate parts. Audio uses AC3 format. </p>
 
-<p class="smtxt"><b>Trade:</b> Yes | Gift: Yes</p>
+<p class="smtxt"><b>Trade:</b> Yes | <b>Gift:</b> Yes</p>
 
 🎥 Operation Mincemeat - West End - October, 2023 (1) (Lasagna's master) | MP4 9.55 GB
 
@@ -430,7 +430,7 @@ Generally good video, lighting and focus is sometimes an issue, but I had a blas
 
 <p class="smtxt"><b>Notes:</b> Great capture of the new cast! Shot between heads.</p>
 
-<p class="smtxt tnft"><b>Trade:</b> NFT until August 1, 2027<</p>
+<p class="smtxt tnft"><b>Trade:</b> NFT until August 1, 2027</p>
 
 🎥 Operation Mincemeat - West End - September, 2025 Highlights (Lasagna's master) | MP4 (4K) 2.23GB
 
@@ -452,15 +452,17 @@ Generally good video, lighting and focus is sometimes an issue, but I had a blas
 
 <p class="smtxt"><b>Cast:</b> Alex Young (Ewen Montagu & Others), Jason Kajdi (s/w Charles Cholmondeley & Others), Chlöe Hart (Johnny Bevan & Others), Danny Becker (Hester Leggatt & Others), Roshani Abbey (Jean Leslie & Others)</p>
 
-<p class="smtxt"><b>Notes:</b> Lloyd Webber once owned a 1939 Bentley Mark V. During the war, this specific vehicle was used by a London Rolls-Royce dealer who painted it in camouflage to avoid German bombs. First of my many, many, MANY delvings in to mincemeat. lovely jason charlie goodness, heavy focus on him but not fancam. slightly overexposed and occasionally restricted. its the fortune dont expect too much.</p>
+<p class="smtxt"><b>Notes:</b> Lloyd Webber once owned a 1939 Bentley Mark V. During the war, this specific vehicle was used by a London Rolls-Royce dealer who painted it in camouflage to avoid German bombs. <br />
+First of my many, many, MANY delvings in to mincemeat. lovely jason charlie goodness, heavy focus on him but not fancam. slightly overexposed and occasionally restricted. its the fortune dont expect too much.</p>
 
 <p class="smtxt tnft"><b>Trade:</b> NFT until December 3, 2026</p>
 
-🎥 Operation Mincemeat - West End- January, 2026 (2) - (AndrewLloydWebbersiPad's master) | MP4 5.81GB
+🎥 Operation Mincemeat - West End - January, 2026 (2) (AndrewLloydWebbersiPad's master) | MP4 5.81GB
 
 <p class="smtxt"><b>Cast:</b> Alex Young (Ewen Montagu & Others), George Jennings (s/w Charles Cholmondeley & Others), Chlöe Hart (Johnny Bevan & Others), Jason Kajdi (s/w Hester Leggatt & Others), Roshani Abbey (Jean Leslie & Others)</p>
 
-<p class="smtxt"><b>Notes:</b> Andrew Lloyd Webber was born on March 22, 1948—years after the conclusion of World War II. Cover boys show! very beloved to me. as usual its the fortune. dont expect too much, there's heads, overexposure, out of focus. a hope a dream and a wish. its generally watchable, but dont say i didnt warn you, my camera hated me for months.</p>
+<p class="smtxt"><b>Notes:</b> Andrew Lloyd Webber was born on March 22, 1948—years after the conclusion of World War II. <br />
+Cover boys show! very beloved to me. as usual its the fortune. dont expect too much, there's heads, overexposure, out of focus. a hope a dream and a wish. its generally watchable, but dont say i didnt warn you, my camera hated me for months.</p>
 
 <p class="smtxt tnft"><b>Trade:</b> NFT until December 3, 2026</p>
 
@@ -468,7 +470,8 @@ Generally good video, lighting and focus is sometimes an issue, but I had a blas
 
 <p class="smtxt"><b>Cast:</b> Geri Allen (s/w Ewen Montagu & Others), George Jennings (s/w Charles Cholmondeley & Others), Chlöe Hart (Johnny Bevan & Others), Danny Becker (Hester Leggatt & Others), Roshani Abbey (Jean Leslie & Others)</p>
 
-<p class="smtxt"><b>Notes:</b> Phantom of the Opera used to run simultaneously in New York and London, but now mincemeat does instead. No thoughts, head empty, Geri Allen. I filmed this in a very bisexual time of my life. usual its the fortune may be out of focus or over exposed, may have a head in the way, does have george and geri.</p>
+<p class="smtxt"><b>Notes:</b> Phantom of the Opera used to run simultaneously in New York and London, but now mincemeat does instead.<br />
+No thoughts, head empty, Geri Allen. I filmed this in a very bisexual time of my life. usual its the fortune may be out of focus or over exposed, may have a head in the way, does have george and geri.</p>
 
 <p class="smtxt tnft"><b>Trade:</b> NFT until December 3, 2026</p>
 
@@ -476,9 +479,18 @@ Generally good video, lighting and focus is sometimes an issue, but I had a blas
 
 <p class="smtxt"><b>Cast:</b> Madeline Jackson-Smith (Ewen Montagu & Others), Peter McGovern (Charles Cholmondeley & Others), Geri Allen (s/b Johnny Bevan & Others), Jason Kajdi (s/b Hester Leggatt & Others), Roshani Abbey (Jean Leslie & Others)</p>
 
-<p class="smtxt"><b>Notes:</b> nobody in this cast, nor even andrew lloyd webber, was alive to witness any of the events that happened. from memory this is a fine video. i love maddie</p>
+<p class="smtxt"><b>Notes:</b> nobody in this cast, nor even andrew lloyd webber, was alive to witness any of the events that happened.<br />
+from memory this is a fine video. i love maddie</p>
 
 <p class="smtxt tnft"><b>Trade:</b> NFT until January 8, 2027</p>
+
+🎥 Operation Mincemeat - West End - March 2026 (2) (MozartWasCrazy's master) | MP4 (4K) 9.44GB
+
+<p class="smtxt"><b>Cast:</b> Alex Young (Ewen Montagu & others) Peter McGovern (Charles Cholmondeley & others) Geri Allen (alt Johnny Bevan & Others) Danny Becker (Hester Leggatt & Others) Madeleine Jackson-Smith (s/b Jean Leslie & Others)
+
+<p class="smtxt"><b>Notes:</b> Madeleine’s last scheduled performance as Jean! Very very messy first 20 minutes, filmed with a mix of medium wides and closeups, obstruction from the bar at the bottom that gets better as the show progresses. Some wandering and a bit of washout.
+
+<p class="smtxt tnftf"><b>Trade:</b> NFT Forever</p>
 
 🎥 Operation Mincemeat - West End - April, 2026 (2) (AndrewLloydWebbersiPad's master) | MP4 6.14GB
 
@@ -492,13 +504,33 @@ usual fortune stuff, slight overexposure, heads and walls in the way. minced mea
 
 <p class="smtxt tnft"><b>Trade:</b> NFT until March 18, 2027</p>
 
+🎥 Operation Mincemeat - West End - May 2026 (MozartWasCrazy's master) | MP4 (4K) 9.64GB
+
+<p class="smtxt"><b>Cast:</b> Alex Young (Ewen Montagu & Others) Peter McGovern (Charles Cholmondeley & Others) Chlöe Hart (Johnny Bevan & Others) Danny Becker (Hester Leggatt & Others) Roshani Abbey (Jean Leslie & Others)
+
+<p class="smtxt"><b>Notes:</b> Last performance for the Y3 cast! Basically no obstruction or washout, some wandering throughout and a few dropouts. Microphone gets overloaded when people were cheering
+
+<p class="smtxt tnftf"><b>Trade:</b> NFT Forever</p>
+
+---
+
+🎥 Operation Mincemeat - UK Tour - July 2026 (1) (MozartWasCrazy's master) | MP4 (4K) 
+
+<p class="smtxt"><b>Cast:</b> Katy Ellis (s/b Ewen Montagu & Others), Morgan Phillips (s/b Charles Cholmondeley & Others), Jamie-Rose Monk (Johnny Bevan & Others), Christian Andrews (Hester Leggatt & Others), Charlotte Hanna-Williams (Jean Leslie & Others)
+
+<p class="smtxt"><b>Notes:</b> Filmed with a mix of medium wides and closeups. Some wandering but no obstruction, a few seconds of audio only during act one
+
+<p class="smtxt tnftf"><b>Trade:</b> NFT Forever</p>
+
+---
+
 🎥 Operation Mincemeat - Broadway - February, 2025 (2) (The Riddle's master) | MP4 10.94 GB
 
 <p class="smtxt"><b>Cast:</b> Natasha Hodgson (Ewen Montagu & Others), David Cumming (Charles Cholmondeley & Others), Zoe Roberts (Johnny Bevan & Others), Jak Malone (Hester Leggatt & Others), Claire-Marie Hall (Jean Leslie & Others)</p>
 
 <p class="smtxt"><b>Notes:</b> Great 4k capture of the Broadway production during previews! The energy tonight was a bit unhinged and there were some really fun mishaps. Some tilt, wandering, and obstruction throughout, but probably the least obstructed video of the three.  Very much a fancam of Tash. Never Gift.</p>
 
-<p class="smtxt"><b>Trade:</b> Yes | Gift: No</p>
+<p class="smtxt"><b>Trade:</b> Yes | <b>Gift:</b> No</p>
 
 🎥 Operation Mincemeat - Broadway - February, 2026 (6) (The Riddle's master) | MP4 12.35GB
 
@@ -506,7 +538,7 @@ usual fortune stuff, slight overexposure, heads and walls in the way. minced mea
 
 <p class="smtxt"><b>Notes:</b> Excellent 4k capture of the original cast's final show.  More wide shots this time to capture the ensemble nature of the piece and all of the lovely moments that they shared with each other.  Still has an emphasis on the women at times.  A few moments of wandering and blackouts, usually never more than a few seconds, largely due to movement in the aisle.  Some shakiness periodically.  Includes bows, Natasha's speech, and the sing-along to "Sail On, Boys" - there's a slight dip in volume at this point.  I'll never stop thinking about this performance.</p>
 
-<p class="smtxt"><b>Trade:</b> Yes | Gift: No</p>
+<p class="smtxt"><b>Trade:</b> Yes | <b>Gift:</b> No</p>
 
 🎥 Operation Mincemeat - Broadway - February, 2026 (7) (The Riddle's master) | MP4 11.07GB
 
@@ -514,7 +546,7 @@ usual fortune stuff, slight overexposure, heads and walls in the way. minced mea
 
 <p class="smtxt"><b>Notes:</b> Excellent 4k capture of the new cast's debut performance!  Shot with a mix of mediums, wides, and close-ups, with some emphasis on Julia's Monty that I filmed for the gay people in my phone.  Includes Julia's speech about kid's night on Broadway and bows.</p>
 
-<p class="smtxt"><b>Trade:</b> Yes | Gift: No</p>
+<p class="smtxt"><b>Trade:</b> Yes | <b>Gift:</b> No</p>
 
 🎥 Operation Mincemeat - Broadway - May, 2025 (juniper47's master) | MP4 4K 9.3 GB
 
@@ -522,7 +554,7 @@ usual fortune stuff, slight overexposure, heads and walls in the way. minced mea
 
 <p class="smtxt"><b>Notes:</b> Filmed in 4K from mezzanine. Excellent capture, no obstructions at all, steady filming throughout. Dropouts only for applause. Includes curtain call and Natasha Hodgson's speech recognizing the 6-year anniversary since their very first Off-West End performance and invitation for Felix Hagan (one of the writers of the show) to come on stage to take a bow. Never gift.</p>
 
-<p class="smtxt"><b>Trade:</b> Yes | Gift: No</p>
+<p class="smtxt"><b>Trade:</b> Yes | <b>Gift:</b> No</p>
 
 🎥 Operation Mincemeat - Broadway - 26 September 2025 (juniper47's master) | MP4 (4K) 9.32GB
 
@@ -530,7 +562,7 @@ usual fortune stuff, slight overexposure, heads and walls in the way. minced mea
 
 <p class="smtxt"><b>Notes:</b> Brandon's debut as Hester! Filmed in 4K from mezzanine. Minor obstruction from a couple of heads but doesn't really obstruct any action.</p>
 
-<p class="smtxt"><b>Trade:</b> Yes | Gift: No</p>
+<p class="smtxt"><b>Trade:</b> Yes | <b>Gift:</b> No</p>
 
 ---
 
