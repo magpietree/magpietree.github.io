@@ -486,9 +486,9 @@ from memory this is a fine video. i love maddie</p>
 
 🎥 Operation Mincemeat - West End - March 2026 (2) (MozartWasCrazy's master) | MP4 (4K) 9.44GB
 
-<p class="smtxt"><b>Cast:</b> Alex Young (Ewen Montagu & others) Peter McGovern (Charles Cholmondeley & others) Geri Allen (alt Johnny Bevan & Others) Danny Becker (Hester Leggatt & Others) Madeleine Jackson-Smith (s/b Jean Leslie & Others)
+<p class="smtxt"><b>Cast:</b> Alex Young (Ewen Montagu & others) Peter McGovern (Charles Cholmondeley & others) Geri Allen (alt Johnny Bevan & Others) Danny Becker (Hester Leggatt & Others) Madeleine Jackson-Smith (s/b Jean Leslie & Others)</p>
 
-<p class="smtxt"><b>Notes:</b> Madeleine’s last scheduled performance as Jean! Very very messy first 20 minutes, filmed with a mix of medium wides and closeups, obstruction from the bar at the bottom that gets better as the show progresses. Some wandering and a bit of washout.
+<p class="smtxt"><b>Notes:</b> Madeleine’s last scheduled performance as Jean! Very very messy first 20 minutes, filmed with a mix of medium wides and closeups, obstruction from the bar at the bottom that gets better as the show progresses. Some wandering and a bit of washout.</p>
 
 <p class="smtxt tnftf"><b>Trade:</b> NFT Forever</p>
 
@@ -506,19 +506,19 @@ usual fortune stuff, slight overexposure, heads and walls in the way. minced mea
 
 🎥 Operation Mincemeat - West End - May 2026 (MozartWasCrazy's master) | MP4 (4K) 9.64GB
 
-<p class="smtxt"><b>Cast:</b> Alex Young (Ewen Montagu & Others) Peter McGovern (Charles Cholmondeley & Others) Chlöe Hart (Johnny Bevan & Others) Danny Becker (Hester Leggatt & Others) Roshani Abbey (Jean Leslie & Others)
+<p class="smtxt"><b>Cast:</b> Alex Young (Ewen Montagu & Others) Peter McGovern (Charles Cholmondeley & Others) Chlöe Hart (Johnny Bevan & Others) Danny Becker (Hester Leggatt & Others) Roshani Abbey (Jean Leslie & Others)</p>
 
-<p class="smtxt"><b>Notes:</b> Last performance for the Y3 cast! Basically no obstruction or washout, some wandering throughout and a few dropouts. Microphone gets overloaded when people were cheering
+<p class="smtxt"><b>Notes:</b> Last performance for the Y3 cast! Basically no obstruction or washout, some wandering throughout and a few dropouts. Microphone gets overloaded when people were cheering</p>
 
 <p class="smtxt tnftf"><b>Trade:</b> NFT Forever</p>
 
 ---
 
-🎥 Operation Mincemeat - UK Tour - July 2026 (1) (MozartWasCrazy's master) | MP4 (4K) 
+🎥 Operation Mincemeat - UK Tour - July 2026 (1) (MozartWasCrazy's master) | MP4 (4K) 9.37GB
 
-<p class="smtxt"><b>Cast:</b> Katy Ellis (s/b Ewen Montagu & Others), Morgan Phillips (s/b Charles Cholmondeley & Others), Jamie-Rose Monk (Johnny Bevan & Others), Christian Andrews (Hester Leggatt & Others), Charlotte Hanna-Williams (Jean Leslie & Others)
+<p class="smtxt"><b>Cast:</b> Katy Ellis (s/b Ewen Montagu & Others), Morgan Phillips (s/b Charles Cholmondeley & Others), Jamie-Rose Monk (Johnny Bevan & Others), Christian Andrews (Hester Leggatt & Others), Charlotte Hanna-Williams (Jean Leslie & Others)</p>
 
-<p class="smtxt"><b>Notes:</b> Filmed with a mix of medium wides and closeups. Some wandering but no obstruction, a few seconds of audio only during act one
+<p class="smtxt"><b>Notes:</b> Filmed with a mix of medium wides and closeups. Some wandering but no obstruction, a few seconds of audio only during act one</p>
 
 <p class="smtxt tnftf"><b>Trade:</b> NFT Forever</p>
 
@@ -647,6 +647,18 @@ usual fortune stuff, slight overexposure, heads and walls in the way. minced mea
 <p class="smtxt"><b>Notes:</b> Lovely capture of this incredible, emotional show in its final week! A rare wideshot video from me in order to capture all the choreography, meaning at times a head is visible at the bottom.</p>
 
 <p class="smtxt"><b>Trade:</b> Yes</p>
+
+---
+
+### Thespians (1)
+
+🎥 Thespians - UK Tour - June 2026 (MozartWasCrazy's master) | MP4 (4K) 
+
+<p class="smtxt"><b>Cast:</b> Allie Dart (Rhapsodes), Josh Patel-Foster (u/s Bard), Rhys Taylor (The Tyrant), Claire-Marie Hall (Poly), James Spence (Thespis), Luke Latchman (Atlas), Marc Pickering (Adonis), Mia Jerome (Melampus), Ashley Tucker (Ensemble), Curtis Patrick (Ensemble)</p>
+
+<p class="smtxt"><b>Notes:</b> Filmed with a mix of medium, wides and closeups. Obstruction at the sides for act one and one annoying head in the middle that is worked around for the best of my ability during act two. 2ish mins of audio only during act two, some dropouts and wandering but no washout.</p>
+
+<p class="smtxt tnftf"><b>Trade:</b> NFT Forever</p>
 
 ---
 
