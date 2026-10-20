@@ -64,13 +64,21 @@ also if this gets out anywhere beyond, i will PERSONALLY send you to ALW's house
 
 ---
 
-### Born With Teeth (1)
+### Born With Teeth (2)
 
 🎥 Born With Teeth - Oregon Shakespeare Festival - July 2024 (soysaucepierre's master) | MP4 6.61GB
 
 <p class="smtxt"><b>Cast:</b> Alex Purcell (Kit), Jaysen Wright (u/s Will)</p>
 
 <p class="smtxt"><b>Notes:</b> Solid phone boot of this neat homoerotic drama between William Shakespeare and Christopher Marlowe. Jaysen did amazing understudying the role of Will, and Alex was truly a wonder. The first 15 minutes, half the stage is cut off and at a dramatic angle, but after that, the video improves drastically and captures all the action. Will's white shirt basically glows but it felt like it did in the theater too, I promise. Some of the darker scenes are a bit underexposed. A couple heads appear in the bottom of frame but they don't cover anything. Readjustment, shaking, and breathing motions throughout. Shot from center of house.</p>
+
+<p class="smtxt"><b>Trade:</b> Yes</p>
+
+🎥 Born with Teeth - West End/Wyndham's Theatre - October 2025 (Jagweed's master) | MP4 4K 6.12 GB
+
+<p class="smtxt"><b>Cast:</b> Cast: Ncuti Gatwa (Kit), Edward Bluemel (Will)</p>
+
+<p class="smtxt"><b>Notes:</b> A perfect capture. No obstruction. A nice mix of wides and mediums. External audio used. Recording includes the curtain call and marquee.</p>
 
 <p class="smtxt"><b>Trade:</b> Yes</p>
 
@@ -195,13 +203,25 @@ mostly in focus and catches the action well.</p>
 
 ---
 
-### Dracula (1)
+### Dracula (Kip Williams) (1)
 
 🎥 Dracula (Kip Williams) - Noël Coward Theatre - February, 2026 (MTTZ's master) | MP4(4K) 9.15GB
 
 <p class="smtxt"><b>Cast:</b> Cynthia Erivo (Dracula/Others)</p>
 
 <p class="smtxt"><b>Notes:</b> Great capture of this one-woman adaptation in early previews! Shot in mostly wides to capture all that was happening on the screens, with a few mediums and close-ups sparsely scattered in. Some increased wandering, shaking, and re-adjusting. Audio is patched in from an external source; some scraping and rustling might be heard during readjustment periods. Shot around minor head obstruction that doesn’t block any significant action. Overall a great capture. Folder also contains video of the first 6 minutes of the show that end with a show stop from Cynthia, where she then restarted from the top.</p>
+
+<p class="smtxt"><b>Trade:</b> Yes</p>
+
+---
+
+### Dracula: A Comedy Of Terrors (1)
+
+🎥 Dracula: A Comedy Of Terrors - Off-Broadway - 18 December 2023 (bikinibottomday's master) | MP4 6.39GB
+
+<p class="smtxt"><b>Cast:</b> James Daly (Dracula), Andrew Keenan-Bolger (Jonathan Harker/Suitors), Jordan Boatman (Lucy/Kitty), Arnie Burton (Mina/Van Helsing), Ellen Harvey (Dr. Westfeldt/Renfield)</p>
+
+<p class="smtxt"><b>Notes:</b> Excellent 4K capture! Due to a camera error, the last 15 seconds are audio only. Some wandering/unfocusing throughout. External audio feed.</p>
 
 <p class="smtxt"><b>Trade:</b> Yes</p>
 
@@ -251,7 +271,7 @@ mostly in focus and catches the action well.</p>
 
 ---
 
-### Hadestown (4)
+### Hadestown (5)
 
 🎥 Hadestown - West End - February, 2024 (3) (Lasagna's master) | MP4 (4K) 9.25GB
 
@@ -282,6 +302,36 @@ mostly in focus and catches the action well.</p>
 <p class="smtxt"><b>Cast:</b> Jordan Fisher (Orpheus), Maia Reficco (Eurydice), Malcolm Armwood (u/s Hermes), Phillip Boykin (Hades), Allison Russell (Persephone), Shea Renne (Fate), Jessie Shelton (Fate), Brit West (Fate), Brandon Cameron (s/w Worker), KC Dela Cruz (s/w Worker), Tanner Ray Wilson (s/w Worker), Emily Afton (Worker), Timothy H Lee (Worker)</p>
 
 <p class="smtxt"><b>Notes:</b> Excellent capture of this incredible show with Allison Russell joining the cast as Persephone. My first Broadway video! Shot around an annoying moving head that mostly obstructs the bottom left of the stage when present, but it's worked around well and is mostly unobtrustive as well as mostly going away in act 2. Shot in a great mix of wides, mediums, and close-ups. Some increased wandering, shaking, and re-adjusting throughout. Audio is patched in from an external source. Does not include Bows or We Raise Our Cups. Overall a wonderful capture that only gets messy when navigating head obstruction.</p>
+
+<p class="smtxt"><b>Trade:</b> Yes</p>
+
+🎥 Hadestown - Broadway - September, 2025 (StarCuffedJeans's master) | MP4 5.92GB
+
+<p class="smtxt"><b>Cast:</b> Jack Wolfe (Orpheus), Morgan Dudley (Eurydice), Rebecca Naomi Jones (Persephone), Paulo Szot (Hades), Kurt Elling (Hermes), Jessie Shelton (Fate), Kay Trinidad (Fate), Shea Renne (t/r Fate), Emily Afton (Worker), Malcolm Armwood (Worker), Jeffrey Cornelius (Worker), Sydney Parra (Worker), Alex Puette (Worker)</p>
+
+<p class="smtxt"><b>Trade:</b> Yes</p>
+
+---
+
+### Hercules (1)
+
+🎥 Hercules - West End - August, 2025 (MTTZ's master) | MP4 (4K) 7.31GB
+
+<p class="smtxt"><b>Cast:</b> Luke Brady (Hercules), Rhianne Alleyne (u/s Meg), Kimmy Edwards (s/b Thalia), Stephen Carlile (Hades), Malinda Parris (Calliope), Joel Benjamin (Zeus), Robyn Rose (Terpsichore), Ellie Mitchell (Hera), Marie Finlayson (u/s Clio), Trevor Dion Nicholas (Phil), Brianna Ogunbawo (Melpomene), Saffi Needham (Despina), Craig Gallivan (Bob), Lee Zarrett (Charles), Jason Winter (Ensemble), Ope Sowande (Ensemble), Matt Overfield (Ensemble), Ben Nicholas (Ensemble), Stefan Lagoulis (Ensemble), Travis Kerry (Ensemble), Cruz-Troy Hunter (Ensemble), Nicole Carlisle (Ensemble), Jack Butcher (Ensemble), Sarah Benbelaid (Ensemble), Lana Antoniou (Ensemble)</p>
+
+<p class="smtxt"><b>Notes:</b> Great capture of this updated Disney adaptation! Shot in a great mix of wides, mediums, and close-ups. Some increased wandering, shaking, and re-adjusting throughout. One brief dropout in act 2. Includes curtain call. Audio is patched in from an external source. Overall a very good capture. </p>
+
+<p class="smtxt"><b>Trade:</b> Yes</p>
+
+---
+
+### Hot Mess (1)
+
+🎥 Hot Mess - Off West End - October 2025 (hitmewithyourbethshot's master) | MTS 5.9GB
+
+<p class="smtxt"><b>Cast:</b> Danielle Steers (Earth), Tobias Turley (Humanity)</p>
+
+<p class="smtxt"><b>Notes:</b> This video is never to be publicly shared on YouTube, tumblr, Facebook, TikTok etc.</p>
 
 <p class="smtxt"><b>Trade:</b> Yes</p>
 
@@ -363,6 +413,18 @@ Generally good video, lighting and focus is sometimes an issue, but I had a blas
 <p class="smtxt"><b>Cast:</b> Erika Henningsen (Cady Heron), Ashley De La Rosa (s/b Regina George), Krystina Alabado (Gretchen Wieners), Kate Rockwell (Karen Smith), Barrett Wilbert Weed (Janis Sarkisian), Grey Henson (Damian Hubbard), Kyle Selig (Aaron Samuels), Cheech Manohar (Kevin Gnapoor), Jennifer Simard (Mrs. Heron/Ms. Norbury/Mrs. George), Rick Younger (Principal Duvall), Iain Young (s/w Ensemble), Myles McHale (Ensemble), Ixchel Cuellar (s/w Ensemble), Collins Conley (Ensemble), Jake Swain (Ensemble), DeMarius R. Copes (Ensemble), Kevin Cosculluela (Ensemble), Riza Takahashi (Ensemble), Maria Briggs (s/w Ensemble), Curtis Holland (Ensemble), Daryl Tofa (Ensemble), Becca Petersen (Ensemble), Christine Shepard (Ensemble), Brittany Nicholas (s/w Ensemble), Gianna Yanelli (Ensemble)</p>
 
 <p class="smtxt"><b>Notes:</b> Beautiful HD capture of the new cast and Ashley as Regina. Erika flubs a line during Whose House is This and the cast spends the remainder of the song recovering. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don't go linking things to actors and shows.</p>
+
+<p class="smtxt"><b>Trade:</b> Yes</p>
+
+---
+
+### Much Ado About Nothing (1)
+
+🎥 Much Ado About Nothing - West End - February 2025 (Jagweed's master) | MP4 8.4GB
+
+<p class="smtxt"><b>Cast:</b> Tom Hiddleston (Benedick), Hayley Atwell (Beatrice), Mara Huf (Hero), James Phoon (Claudio), Tim Steed (Don John), Mason Alexander Park (Margaret), Mika Onyx Johnson (Borachio), Forbes Masson (Leonato), Gerald Kyd (Don Pedro), Phillip Olagoke (Friar Francis)</p>
+
+<p class="smtxt"><b>Notes:</b> Great capture of this acclaimed production. A head does appear in frame on the left hand side throughout the first act. When it appears I ensure it’s brief. Second act occasionally has the top of a head at the bottom of the frame. Neither cause major issues. Recording includes the curtain call and marquee. Filmed in 4K. External audio used.</p>
 
 <p class="smtxt"><b>Trade:</b> Yes</p>
 
@@ -578,6 +640,26 @@ usual fortune stuff, slight overexposure, heads and walls in the way. minced mea
 
 ---
 
+### Peter Pan Goes Wrong (2)
+
+🎥 Peter Pan Goes Wrong - Second UK Tour - January, 2020 (hitmewithyourbethshot's master) | MTS 11.5GB
+
+<p class="smtxt"><b>Cast:</b> Patrick Warner (Francis/Narrator), Katy Daghorn (Sandra/Wendy Darling), Phoebe Ellabani (Annie/Lisa/Tinker Bell/Mary Darling/Tigerlily), Oliver Senton (Robert/Starkey/Nana the Dog), Ciaran Kellgren (Jonathan/Peter Pan), Tom Babbage (u/s Chris Bean/u/s Captain Hook/u/s George), Fred Gray (e/c Crocodile/e/c Max Bennett/e/c Michael Darling), Ethan Moorhouse (Trevor Watson), Georgia Bradley (Lucy/Tootles), Romayne Andrews (Dennis Tyde/John Darling/Smee)</p>
+
+<p class="smtxt"><b>Notes:</b> This video is never to be publicly shared on YouTube, tumblr, Facebook, Stage Dork etc.</p>
+
+<p class="smtxt"><b>Trade:</b> Yes</p>
+
+🎥 Peter Pan Goes Wrong - Broadway - April 30, 2023 (bikinibottomday's master) | MP4 7.87 GB
+
+<p class="smtxt"><b>Cast:</b> Neil Patrick Harris (t/r Francis/t/r Cecco), Charlie Fay Russell (Sandra/Wendy Darling), Nancy Zamit (Annie/Lisa/Curly/Tinker Bell/Mary Darling), Henry Lewis (Robert/Starkey/Nana the Dog), Greg Tannahill (Jonathan/Peter Pan), Henry Shields (Chris Bean/Captain Hook/George), Matthew Cavendish (Crocodile/Max Bennett/Michael Darling), Chris Leask (Trevor Watson), Bianca Horn (Gill), Ellie Morris (Lucy/Tootles), Jonathan Sayer (Dennis Tyde/John Darling/Smee)</p>
+
+<p class="smtxt"><b>Notes:</b> Great 4K capture of what was originally meant to be Neil Patrick Harris’ last performance before he extended. There is head obstruction on both sides (the left more so than the right) that block some action and are worked around as best as possible. There is also some wandering and unfocusing throughout. Some scenes in the first act especially have a foggy appearance. Includes curtain call, audio is fed from external source and is somewhat muffled in the latter half of Act One. </p>
+
+<p class="smtxt"><b>Trade:</b> Yes</p>
+
+---
+
 ### Ride (1)
 
 🎥 Ride - The Old Globe - April, 2024 (MTTZ's master) | MP4 (1080p) 6.52GB
@@ -590,13 +672,13 @@ usual fortune stuff, slight overexposure, heads and walls in the way. minced mea
 
 ---
 
-### Peter Pan Goes Wrong (1)
+### Sing Street (1)
 
-🎥 Peter Pan Goes Wrong - Second UK Tour - January, 2020 (hitmewithyourbethshot's master) | MTS 11.5GB
+🎥 Sing Street - Boston - October 2022 (catherinewasamassivec's master) | MP4 8.10 GB
 
-<p class="smtxt"><b>Cast:</b> Patrick Warner (Francis/Narrator), Katy Daghorn (Sandra/Wendy Darling), Phoebe Ellabani (Annie/Lisa/Tinker Bell/Mary Darling/Tigerlily), Oliver Senton (Robert/Starkey/Nana the Dog), Ciaran Kellgren (Jonathan/Peter Pan), Tom Babbage (u/s Chris Bean/u/s Captain Hook/u/s George), Fred Gray (e/c Crocodile/e/c Max Bennett/e/c Michael Darling), Ethan Moorhouse (Trevor Watson), Georgia Bradley (Lucy/Tootles), Romayne Andrews (Dennis Tyde/John Darling/Smee)</p>
+<p class="smtxt"><b>Cast:</b> Adam Bregman (Conor Lawlor), Billy Carter (Robert Lawlor), Courtnee Carter (Raphina), Jack Difalco (Barry Bray), Dónal Finn (Brendan Lawlor), Anthony Genovesi (Declan), Michael Lepore (Gary), Diego Lucano (Darren Mulvey), Elijah Lyons (Larry), Alexa Xioufaridou Moster (Anne Lawlor), Anne L. Nathan (Sandra), Gian Perez (Kevin), Dee Roscioli (Penny Lawlor), Armand Schultz (Brother Baxter), Ben Wang (Eamon)</p>
 
-<p class="smtxt"><b>Notes:</b> This video is never to be publicly shared on YouTube, tumblr, Facebook, Stage Dork etc.</p>
+<p class="smtxt"><b>Notes:</b> Recording starts ~9 minutes into the show. Release includes heavily obstructed phone footage for those 9 mins from an earlier performance for completeness' sake, but the main video/story is enjoyable without it. Never share/post/gift any part of this video (including clips, audio, or screencaps) on social platforms such as Discord, Facebook, Instagram, Reddit, TikTok, Twitter, Tumblr, YouTube, or whatever else is the newest rage in the future. Never to be sold (except by master).</p>
 
 <p class="smtxt"><b>Trade:</b> Yes</p>
 
@@ -674,7 +756,15 @@ usual fortune stuff, slight overexposure, heads and walls in the way. minced mea
 
 ---
 
-### Two Strangers (Carry a Cake Across New York) (1)
+### Two Strangers (Carry a Cake Across New York) (2)
+
+🎥 Two Strangers (Carry a Cake Across New York) - West End - August 2024 (Jagweed's master) | MP4 8.7GB
+
+<p class="smtxt"><b>Cast:</b> Sam Tutty (Dougal), Dujonna Gift (Robin)</p>
+
+<p class="smtxt"><b>Notes:</b> A perfect capture. Recording includes the curtain call and marquee. Filmed in 4K. External audio used.</p>
+
+<p class="smtxt"><b>Trade:</b> Yes</p>
 
 🎥 Two Strangers (Carry a Cake Across New York) - Broadway - Dec, 2025 (The Riddle's master) | MP4 (4K) 9.41GB
 
