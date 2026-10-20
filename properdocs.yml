@@ -14,7 +14,6 @@ nav:
   - Home: "index.md"
   - Videos: "videos.md"
   - Audios: "audios.md"
-  - Pro-shots: "proshots.md"
 plugins:
   - macros
   - table-reader:
