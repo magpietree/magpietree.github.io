@@ -336,6 +336,16 @@ mostly in focus and catches the action well.</p>
 
 ---
 
+### Hair (1)
+
+🎥 Hair - Broadway - March 15, 2009 (NYCG8R's master) | VOBs + Smalls 4.14 GB
+
+<p class="smtxt"><b>Cast:</b> Gavin Creel (Claude), Caissie Levy (Sheila), Will Swenson (Berger), Andrew Kober (Woof), Darius Nichols (Hud), Kacie Sheik (Jeanie), Sasha Allen (Dionne), Allison Case (Crissy)</p>
+
+<p class="smtxt"><b>Trade:</b> Yes</p>
+
+---
+
 ### Hercules (1)
 
 🎥 Hercules - West End - August, 2025 (MTTZ's master) | MP4 (4K) 7.31GB
@@ -707,6 +717,18 @@ usual fortune stuff, slight overexposure, heads and walls in the way. minced mea
 
 ---
 
+### The Play That Goes Wrong (1)
+
+🎥 The Play That Goes Wrong - Broadway - May, 2018 (Evening) (NYCG8R's master) | VOB with smalls 4.21GB
+
+<p class="smtxt"><b>Cast:</b> Preston Truman Boyd (Robert Grove), Mark Evans (Chris Bean), Alex Mandell (Max Bennett), Amelia McClain (Sandra Wilkinson), Harrison Unger (Dennis Tyde), Jonathan Fielding (Jonathan Harris), Ashley Bryant (Annie Twilliol), Akron Watson (Trevor Watson)
+
+<p class="smtxt"><b>Notes:</b> (not Masters notes) Beginning from pre-show where the comedy bit of the set breaking starts. Throughout, very clearly shot with no obstructions, in a mixture of wides and closes, following the action well. I think its shot from the front of the circle. Once or twice the camera falls but never during key moments, and is quickly fixed. No long blackouts. Audience energy is great.
+
+<p class="smtxt"><b>Trade:</b> Yes</p>
+
+---
+
 ### Ride (1)
 
 🎥 Ride - The Old Globe - April, 2024 (MTTZ's master) | MP4 (1080p) 6.52GB
@@ -835,7 +857,7 @@ usual fortune stuff, slight overexposure, heads and walls in the way. minced mea
 
 ---
 
-### Waitress (1)
+### Waitress (2)
 
 🎥 Waitress - Broadway - January, 2019 (NYCG8R's master) | VOBs + Smalls 4.21GB
 
