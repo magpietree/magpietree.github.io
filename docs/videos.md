@@ -2,6 +2,18 @@
 
 ---
 
+### The 25th Annual Putnam County Spelling Bee (1)
+
+🎥 The 25th Annual Putnam County Spelling Bee - Broadway Center Stage - October, 2024 (1) (juniper47's master) | MP4 (4K) 9.42GB
+
+<p class="smtxt"><b>Cast:</b> Bonnie Milligan (Rona Lisa Peretti), Nina White (Olive Ostrovsky), Kevin McHale (William Barfee), Beanie Feldstein (Logainne Schwartzandgrubenierre), Alex Joseph Grayson (Mitch Mahoney), Noah Galvin (Leaf Coneybear), Leana Rae Concepcion (Marcy Park), Philippe Arroyo (Chip Tolentino), Taran Killam (Douglas Panch), Ben Platt (g/p Guest Speller)</p>
+
+<p class="smtxt"><b>Notes:</b> Filmed in 4K from balcony. Excellent steady capture of this much-anticipated production at KenCen, almost no obstruction (just a bit of my sleeve visible for the first number until it was adjusted), brief blackouts only when house lights went up. Wider shots during ensemble numbers and spelling segments to see the speller, Rona, and Panch; closer zooms for individual focus. Includes curtain call. </p>
+
+<p class="smtxt"><b>Trade:</b> Yes</p>
+
+---
+
 ### American Idiot (1)
 
 🎥 American Idiot - Deaf West - October, 2024 (MTTZ’s Master) | MP4 (4K) 7.76GB
@@ -178,6 +190,18 @@ mostly in focus and catches the action well.</p>
 
 ---
 
+### The Crucible (1)
+
+🎥 The Crucible - Fifth Broadway Revival, Walter Kerr Theatre - March 30, 2016 (Evening) (SunsetBlvd79's master) | VOBs + smalls 8.20GB
+
+<p class="smtxt"><b>Cast:</b> Ben Whishaw (John Proctor), Sophie Okonedo (Elizabeth Proctor), Ciaran Hinds (Deputy Governor Danforth), Saoirse Ronan (Abagail Williams), Bill Camp (Reverend John Hale), Tavi Gevinson (Mary Warren), Jason Butler Harner (Reverent Samuel Parris), Jim Norton (Giles Corey)</p>
+
+<p class="smtxt"><b>Notes:</b> Stunning and intense production of this Arthur Miller classic. There is a head that is shot over on the left side of the stage. It usually just blocks the actors' legs when in the frame, which is worked around well. The last 10 seconds of the show (Elizabeth's speech) are missing due to length of show and battery running out. A- </p>
+
+<p class="smtxt"><b>Trade:</b> Yes</p>
+
+---
+
 ### The Curious Case of Benjamin Button (1)
 
 🎥 The Curious Case of Benjamin Button - West End - August 2025 (MTTZ's master) | MP4 (4K) 9.50GB
@@ -187,7 +211,6 @@ mostly in focus and catches the action well.</p>
 <p class="smtxt"><b>Notes:</b> Excellent capture of this incredible show! Shot in a great mix of wides, mediums, and close-ups. Some wandering, shaking, and re-adjusting throughout. Audio is patched in from an external source. Overall a fantastic capture.</p>
 
 <p class="smtxt"><b>Trade:</b> Yes</p>
-
 
 ---
 
@@ -349,6 +372,18 @@ mostly in focus and catches the action well.</p>
 
 ---
 
+### Jesus Christ Superstar (1)
+
+🎥 Jesus Christ Superstar - Hollywood Bowl - August, 2025 (MTTZ's master) | MP4 (4K) 7.24GB
+
+<p class="smtxt"><b>Cast:</b> Cynthia Erivo (Jesus), Adam Lambert (Judas), Phillipa Soo (Mary Magdalene), Raúl Esparza (Pontius Pilate), Zachary James (Caiaphas), Brian Justin Crum (Annas), Milo Manheim (Peter), Tyrone Huntley (Simon), John Stamos (e/c King Herod), Isaiah Bailey (Ensemble), LJ Benet (Apostle/Ensemble), Damian Caraballo (Ensemble), Cooper Clack (Apostle/Ensemble), Jennifer Florentino (Ensemble), Emily Goglia (Maid by the Fire/Ensemble), Summer Nicole Greer (Soul Singer/Ensemble), Christopher Hernandez (Ensemble), Juliet Johnson (Ensemble), Oyoyo Joi (Soul Singer/Apostle/Ensemble), John Krause (Ensemble), Brandon Leffler (Ensemble), John E. Lucas (Priest/Ensemble), Nathan Madden (Ensemble), Morgan Marcell (Ensemble), L.T. Martinez  (Apostle/Ensemble), Clinton Roane (Apostle/Ensemble), Brad Sharp (Apostle/Priest/Ensemble), Krystle Rose’ Simmons (Soul Singer/Apostle/Ensemble), Joey Taranto (Apostle/Ensemble), Ian Ward (Apostle/Ensemble), Sara Gomez (Pit Singer), Ayana Haviv (Pit Singer), Gracie Laboy (Pit Singer), Mariah Meshae (Pit Singer), Natalie Babbitt Taylor (Pit Singer), Suzanne Waters (Pit Singer)</p>
+
+<p class="smtxt"><b>Notes:</b> Great capture of this insane production! Shot in a great mix of wides, mediums, and close-ups; the screens are never filmed, it’s always the actual stage. Two standing ovations, one after Gethsemane lasting 2 minutes and one after Superstar lasting a minute. Increased wandering, shaking, and re-adjusting throughout. Includes bows and appearance from ALW. External audio is patched in from Steponmeshoeman. This performance was also filmed by QuoxWoodTrees and Ostarion. Overall a great capture of this wonderful cast!</p>
+
+<p class="smtxt"><b>Trade:</b> Yes</p>
+
+---
+
 ### John Proctor is the Villain (2)
 
 🎥 John Proctor is the Villain - Broadway - April 2025 (MTTZ's master) | MP4 (4K) 7.79GB
@@ -401,6 +436,18 @@ Generally good video, lighting and focus is sometimes an issue, but I had a blas
 <p class="smtxt"><b>Cast:</b> Andrew Barth Feldman (Seymour), Sarah Hyland (Audrey), James Carpinello (Orin & Others), Kevin Del Aguila (Mushnik), Major Attaway (Voice of Audrey II), Tiffany Renee Thompson (Ronnette), Camryn Hampton (U/S Crystal), Khadijah Sank (Chiffon), Teddy Yudain (Derelict)</p>
 
 <p class="smtxt"><b>Notes:</b> Excellent wide-shot phone boot from the front right orchestra. Mild obstruction on far left stoop, but only covers up lower bodies for a few moments. One slightly dark scene towards the end of Act II, but otherwise, really nicely shot. Sarah brings a new sexiness and humor to Audrey, and of course, Andrew is born for this role. He's delightful. Khadija continues to be my favorite urchin. Her clutching the cash from the audience had me rolling. Never to be sold. Gifting Encouraged.</p>
+
+<p class="smtxt"><b>Trade:</b> Yes</p>
+
+---
+
+### Maybe Happy Ending (1)
+
+🎥 Maybe Happy Ending - Broadway - March, 2025 (MTTZ's master) | MP4 (4K) 7.5GB
+
+<p class="smtxt"><b>Cast:</b> Darren Criss (Oliver), Helen J. Shen (Claire), Marcus Choi (James), Dez Duron (Gil Brentley)</p>
+
+<p class="smtxt"><b>Notes:</b> Excellent capture of this incredible show! Shot in a great mix of wides, mediums, and close-ups. Some increased wandering, shaking, and re-adjusting throughout, mostly during scene transitions. Audio is patched in from an external source. Some minor obstruction on the far left side that never blocks any action. Overall an excellent capture of this truly wonderful show. Includes subtitles by gatsbyfied from the Encora subtitles files.</p>
 
 <p class="smtxt"><b>Trade:</b> Yes</p>
 
@@ -789,6 +836,14 @@ usual fortune stuff, slight overexposure, heads and walls in the way. minced mea
 ---
 
 ### Waitress (1)
+
+🎥 Waitress - Broadway - January, 2019 (NYCG8R's master) | VOBs + Smalls 4.21GB
+
+<p class="smtxt"><b>Cast:</b> Sara Bareilles (Jenna), Charity Angél Dawson (Becky), Lenne Klingaman (Dawn), Gavin Creel (Dr. Pomatter), Tyrone Davis Jr (u/s Ogie), Andrew Fitch (u/s Cal), Larry Marshall (Joe), Ben Thompson (Earl), Anastacia McCleskey (Nurse Norma), Molly Jobe (s/w Francine Pomatter), Molly Hager (Mother), Dan Tracy (Father)</p>
+				
+<p class="smtxt"><b>Notes:</b> Filmed early in Sara's third run, before she added new riffs, but she still gives off a wonderful performance to a very reactive audience.</p>
+
+<p class="smtxt"><b>Trade:</b> Yes</p>
 
 🎥 Waitress - UK & Ireland Tour - April, 2026 (AndrewLloydWebbersiPad's master) | MP4 5.35GB
 
