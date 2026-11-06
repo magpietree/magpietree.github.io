@@ -721,9 +721,9 @@ usual fortune stuff, slight overexposure, heads and walls in the way. minced mea
 
 🎥 The Play That Goes Wrong - Broadway - May, 2018 (Evening) (NYCG8R's master) | VOB with smalls 4.21GB
 
-<p class="smtxt"><b>Cast:</b> Preston Truman Boyd (Robert Grove), Mark Evans (Chris Bean), Alex Mandell (Max Bennett), Amelia McClain (Sandra Wilkinson), Harrison Unger (Dennis Tyde), Jonathan Fielding (Jonathan Harris), Ashley Bryant (Annie Twilliol), Akron Watson (Trevor Watson)
+<p class="smtxt"><b>Cast:</b> Preston Truman Boyd (Robert Grove), Mark Evans (Chris Bean), Alex Mandell (Max Bennett), Amelia McClain (Sandra Wilkinson), Harrison Unger (Dennis Tyde), Jonathan Fielding (Jonathan Harris), Ashley Bryant (Annie Twilliol), Akron Watson (Trevor Watson)</p>
 
-<p class="smtxt"><b>Notes:</b> (not Masters notes) Beginning from pre-show where the comedy bit of the set breaking starts. Throughout, very clearly shot with no obstructions, in a mixture of wides and closes, following the action well. I think its shot from the front of the circle. Once or twice the camera falls but never during key moments, and is quickly fixed. No long blackouts. Audience energy is great.
+<p class="smtxt"><b>Notes:</b> (not Masters notes) Beginning from pre-show where the comedy bit of the set breaking starts. Throughout, very clearly shot with no obstructions, in a mixture of wides and closes, following the action well. I think its shot from the front of the circle. Once or twice the camera falls but never during key moments, and is quickly fixed. No long blackouts. Audience energy is great.</p>
 
 <p class="smtxt"><b>Trade:</b> Yes</p>
 
