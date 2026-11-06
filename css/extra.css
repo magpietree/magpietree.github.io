@@ -1,0 +1,23 @@
+/* Maximum space for text block */
+.md-grid {
+  max-width: 100%; /* or 100%, if you want to stretch to full-width */
+}
+
+.smtxt {
+  font-size: 0.7em;
+  padding-left: 30px;
+  margin-bottom: 1em;
+}
+
+.tnft {
+  color: #ff6000;
+}
+
+.tnftf {
+  color: #ff003c;
+}
+
+h3 {
+  text-transform: uppercase;
+  font-weight: bold;
+}
